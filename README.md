@@ -1,4 +1,4 @@
-#Mobile Developer Challenge - RestCountries App
+## Mobile Developer Challenge - RestCountries App
 
 Este é um aplicativo móvel criado para o [desafio de desenvolvedor mobile da 2iBi](https://2ibi.com.br/mobile-developer-challenge/), utilizando o framework B4X. Ele permite visualizar informações de propriedades detalhadas de diferentes países presentes na API REST [https://restcountries.com](https://restcountries.com), incluindo nome, capital, região, sub-região, população, área, fuso horário, nome nativo e bandeira.
 
